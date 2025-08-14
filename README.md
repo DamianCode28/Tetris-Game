@@ -1,0 +1,1 @@
+ juego clásico de Tetris desarrollado utilizando tecnologías web: HTML, CSS y JavaScript. El juego presenta una cuadrícula donde las piezas (tetrominós) caen desde la parte superior. El jugador puede moverlas lateralmente y rotarlas para completar líneas horizontales.
